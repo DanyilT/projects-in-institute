@@ -27,3 +27,11 @@ This is only one Website I saved.
 #### CoffeeShop
 
 I completed the `CoffeeShop` `Web` project. It is stored in [another repository](https://github.com/DanyilT/WebDev/tree/main/CoffeeShop), and can look at [GitHub Pages](https://danyilt.github.io/WebDev/CoffeeShop).
+
+### Unity 3D
+
+In this module, we learned `Unity 3D` and `C#`, and worked on `AR` (Augmented Reality). We delved deeper into AR, but not into Game Design.
+
+#### ChillZone
+
+We had a `Unity 3D` `AR (Augmented Reality)` project. It is stored in [another repository](https://github.com/DanyilT/ChillZone), more about this project you can find in the [Web Page](https://danyilt.github.io/WebDev/ChillZone).
