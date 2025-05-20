@@ -4,10 +4,17 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>EspressoEmpire - Home</title>
+	<link rel="shortcut icon" href="img/logo.svg" type="image/svg">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 	<link rel="stylesheet" type="text/css" href="styles/style.css">
 	<link rel="stylesheet" type="text/css" href="styles/headbar-footer.css">
 	<script type="text/javascript" src="scripts/script.js"></script>
+	<script>
+		document.querySelector('.menu-toggle').addEventListener('click', function () {
+			var menu = document.querySelector('.menubar ul');
+			menu.style.display = menu.style.display === 'block' ? 'none' : 'block';
+		});
+	</script>	  
 </head>
 <body>
 	<header class="headbar">
@@ -16,7 +23,7 @@
 			<h1>EspressoEmpire</h1>
 		</div>
 		<nav class="menubar">
-			<!-- <button class="menu-toggle"><i class="fas fa-bars"></i></button> -->
+			<button class="menu-toggle"><i class="fas fa-bars"></i></button>
 			<ul>
 				<li><a href="index.html"><i class="fas fa-home"></i></a></li>
 				<li><a href="assortiment.html"><i class="fas fa-coffee"></i></a></li>
