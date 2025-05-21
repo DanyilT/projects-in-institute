@@ -8,7 +8,7 @@ I studied at the [Bray Institute of Further Education  (BIFE)](https://bife.ie).
 
 ## Projects
 
-### Java
+### Java ([L5](L5) & [OOP](OOP))
 
 There are some `Java Core` and `Java OOP` projects.
 
@@ -20,18 +20,24 @@ You can find my `Java Core` projects in the [L5](L5) folder. There are [calculat
 
 You can find my `Java OOP` projects in the [OOP](OOP) folder. There are [animal](OOP/animal), [bankAccountApp](OOP/bankAccountApp), [emailApp](OOP/emailApp), and [exam](OOP/exam) projects.
 
-### WebDev
+### WebDev ([Mobile Technologies](Mobile%20Technologies))
 
 This is only one Website I saved.
 
 #### CoffeeShop
 
+> [!IMPORTANT]
+> On another repo, may be updated in the future.
+
 I completed the `CoffeeShop` `Web` project. It is stored in [another repository](https://github.com/DanyilT/WebDev/tree/main/CoffeeShop), and can look at [GitHub Pages](https://danyilt.github.io/WebDev/CoffeeShop).
 
-### Unity 3D
+### Unity 3D ([Multimedia Authoring](Multimedia%20Authoring))
 
 In this module, we learned `Unity 3D` and `C#`, and worked on `AR` (Augmented Reality). We delved deeper into AR, but not into Game Design.
 
 #### ChillZone
+
+> [!IMPORTANT]
+> On another repo, may be updated in the future.
 
 We had a `Unity 3D` `AR (Augmented Reality)` project. It is stored in [another repository](https://github.com/DanyilT/ChillZone), more about this project you can find in the [Web Page](https://danyilt.github.io/WebDev/ChillZone).
