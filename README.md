@@ -55,9 +55,11 @@ Web development projects focusing on responsive design and mobile-first approach
 
 See [Mobile Technologies/README.md](Mobile%20Technologies/README.md) for more details.
 
+#### CoffeeShop
+
 > [!IMPORTANT]  
-> On another repo, may be updated in the future.  
-> I completed the `CoffeeShop` `Web` project. It is stored in [another repository](https://github.com/DanyilT/WebDev/tree/main/CoffeeShop), and can look at [GitHub Pages](https://danyilt.github.io/WebDev/CoffeeShop).
+> CofeeShop project is also storing at [`webdev/coffeeshop`](https://github.com/DanyilT/projects-in-institute/tree/webdev/coffeeshop) branch  
+> And can be viewed at GitHub Pages: [here](https://danyilt.github.io/projects-in-institute/CoffeeShop)
 
 ### [Multimedia Authoring](Multimedia%20Authoring) — Unity 3D & Augmented Reality
 
