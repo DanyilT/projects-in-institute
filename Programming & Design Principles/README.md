@@ -4,9 +4,9 @@ This folder contains Java projects and exercises for programming and design prin
 
 ## Projects
 
-- **calculator_CAO**: CAO points calculator with login system
-- **quiz**: Console-based quiz game with user registration and scoring
-- **exam**: Java exam's exercises
+- [**calculator_CAO**](#calculator_cao): CAO points calculator with login system
+- [**quiz**](#quiz): Console-based quiz game with user registration and scoring
+- [**exam**](#exam): Java exam's exercises
 
 ### calculator_CAO
 
@@ -50,7 +50,7 @@ A console-based quiz game with the following features:
 - [Chart img](chart/quiz/Quiz%20Lucidchart%20(transparent).png)
 - [Chart (lucidchart link)](https://lucid.app/lucidchart/aa7d17ff-adbc-4318-bea0-45331843a572/edit?invitationId=inv_fc2cdf49-f930-4763-81ef-6448b4e75b60)
 
-## exam
+### exam
 
 - [exam](src/exam) - Java exam's exercises.
 

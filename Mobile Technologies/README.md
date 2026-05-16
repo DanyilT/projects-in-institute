@@ -4,9 +4,10 @@ This folder contains coursework and projects related to mobile web development w
 
 ## Projects
 
-- **coffeeShop**: Responsive coffee shop website with product ordering system
+- [**coffeeShop**](#coffee-shop-website---espressoempire): Responsive coffee shop website with product ordering system
 
 ### Coffee Shop Website - EspressoEmpire
+
 - [coffeeShop](src/coffeeShop) - A responsive coffee shop website with product ordering.
 
 A fully responsive coffee shop website featuring:

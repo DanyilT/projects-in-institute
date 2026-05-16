@@ -4,10 +4,10 @@ This folder contains Java OOP projects and assignments demonstrating key object-
 
 ## Projects
 
-- **animal**: Demonstrates inheritance and polymorphism with animal classes
-- **bankAccountApp**: Simulates bank accounts with savings/checking, CSV import, and interest calculation
-- **emailApp**: Email account setup and HR information management
-- **exam**: OOP exercises and exam's project
+- [**animal**](#animal): Demonstrates inheritance and polymorphism with animal classes
+- [**bankAccountApp**](#bankaccountapp): Simulates bank accounts with savings/checking, CSV import, and interest calculation
+- [**emailApp**](#emailapp): Email account setup and HR information management
+- [**exam**](#exam): OOP exercises and exam's project
 
 ### animal
 
